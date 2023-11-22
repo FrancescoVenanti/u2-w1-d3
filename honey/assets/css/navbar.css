@@ -1,0 +1,25 @@
+.flex {
+  display: flex;
+}
+ul {
+  padding: 2rem;
+  justify-content: space-around;
+  align-items: center;
+}
+.shop {
+  justify-content: space-between;
+  align-items: center;
+}
+nav {
+  border-radius: 100px;
+  background-color: #fbf7e3;
+}
+li img {
+  margin-inline-end: 20px;
+}
+li {
+  background-color: #f3df85;
+  padding: 1rem;
+  list-style-type: none;
+  border-radius: 40px;
+}
